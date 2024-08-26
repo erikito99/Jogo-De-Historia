@@ -16,7 +16,7 @@ button{
 }
 
 .passo {
-    dispaly: nome;
+    display: nome;
 }
 
 .passo.ativo {
